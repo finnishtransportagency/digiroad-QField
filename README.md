@@ -9,7 +9,7 @@ Tähän repositorioon kootaan kaikki projektiin liittyvä dokumentaatio ja proje
 
 QField on avoimen lähdekoodin mobiilisovellus, jonka teknologia pohjautuu QGIS-työpöytäohjelmistoon. QField on ennen kaikkea kenttätyökalu, jolla voidaan tuottaa erilaista vektoridataa QGIS-projektiin. Lue lisää QFieldistä [dokumentaatiosta](https://qfield.org/docs/fi/).
 
-![alt text](https://github.com/finnishtransportagency/digiroad-QField/blob/main/media/qfield_ui.png "QField")
+![alt text](https://github.com/finnishtransportagency/digiroad-QField/blob/main/media/qfield-ui.png "QField")
 
 ## LOL-tietomalli (alustava)
 
